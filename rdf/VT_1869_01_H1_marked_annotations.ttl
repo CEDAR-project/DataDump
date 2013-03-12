@@ -1,0 +1,850 @@
+@prefix oa: <http://www.w3.org/ns/openannotation/core/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Friesland/K207> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Simone";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "1932 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Friesland/K207>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Friesland/K209> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Simone";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "4089 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Friesland/K209>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Friesland/K561> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Simone";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "507 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Friesland/K561>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Friesland/K563> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Simone";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "1285 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Friesland/K563>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Friesland/M207> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Simone";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "1923 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Friesland/M207>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Friesland/M209> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Simone";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "4047 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Friesland/M209>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Friesland/P665> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Simone";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "13 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Friesland/P665>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Friesland/P667> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Simone";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "58 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Friesland/P667>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Friesland/R707> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "BV/IT/IS";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "4 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Friesland/R707>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Gelderland/F112> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Simone";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "4273 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Gelderland/F112>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Gelderland/F113> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Simone";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "1442 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Gelderland/F113>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Gelderland/F137> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Simone";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "693 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Gelderland/F137>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Gelderland/F138> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Simone";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "1220 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Gelderland/F138>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Gelderland/F941> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Simone";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "661 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Gelderland/F941>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Gelderland/F942> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Simone";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "852 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Gelderland/F942>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Gelderland/G112> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Simone";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "635 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Gelderland/G112>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Gelderland/G113> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Simone";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "93 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Gelderland/G113>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Gelderland/G115> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Simone";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "728 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Gelderland/G115>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Gelderland/G137> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Simone";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "110 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Gelderland/G137>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Gelderland/G138> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Simone";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "187 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Gelderland/G138>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Gelderland/J112> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Simone";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "5593 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Gelderland/J112>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Gelderland/J113> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Simone";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "1477 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Gelderland/J113>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Gelderland/J137> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Simone";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "694 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Gelderland/J137>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Gelderland/J138> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Simone";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "1229 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Gelderland/J138>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Gelderland/K112> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Simone";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "11696 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Gelderland/K112>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Gelderland/K113> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Simone";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "3443 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Gelderland/K113>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Gelderland/K137> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Simone";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "1975 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Gelderland/K137>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Gelderland/K138> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Simone";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "3198 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Gelderland/K138>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Gelderland/L112> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Simone";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "13408 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Gelderland/L112>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Gelderland/L113> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Simone";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "3534 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Gelderland/L113>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Gelderland/L137> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Simone";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "1729 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Gelderland/L137>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Gelderland/L138> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Simone";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "2976 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Gelderland/L138>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Gelderland/L185> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Simone";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "1933 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Gelderland/L185>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Gelderland/L186> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Simone";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "2541 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Gelderland/L186>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Gelderland/M112> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Simone";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "10895" ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Gelderland/M112>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Gelderland/M113> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Simone";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "3419 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Gelderland/M113>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Gelderland/M137> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Simone";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "1970 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Gelderland/M137>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Gelderland/M138> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Simone";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "3175 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Gelderland/M138>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Gelderland/N112> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Simone";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "13223 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Gelderland/N112>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Gelderland/N113> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Simone";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "3505 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Gelderland/N113>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Gelderland/N137> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Simone";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "1726 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Gelderland/N137>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Gelderland/N138> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Simone";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "2964 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Gelderland/N138>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Gelderland/O112> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Simone";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "801 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Gelderland/O112>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Gelderland/O113> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Simone";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "24 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Gelderland/O113>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Gelderland/O137> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Simone";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "5 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Gelderland/O137>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Gelderland/O138> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Simone";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "Simone: 23" ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Gelderland/O138>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Gelderland/P112> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Simone";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "185 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Gelderland/P112>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Gelderland/P113> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Simone";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "29 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Gelderland/P113>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Gelderland/P434> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "BV/IT/IS";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "`13 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Gelderland/P434>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Gelderland/P435> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Simone";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "31 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Gelderland/P435>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Gelderland/Q112> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Simone";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "215 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Gelderland/Q112>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Gelderland/Q113> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Simone";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "43 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Gelderland/Q113>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Gelderland/Q137> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Simone";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "19 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Gelderland/Q137>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Gelderland/Q138> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Simone";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "39 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Gelderland/Q138>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Gelderland/R112> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Simone";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "197 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Gelderland/R112>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Gelderland/R113> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Simone";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "32 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Gelderland/R113>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Gelderland/R137> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Simone";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "4 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Gelderland/R137>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Gelderland/R138> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Simone";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "15 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Gelderland/R138>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Gelderland/R447> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Simone";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "8 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Gelderland/R447>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Gelderland/R448> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Simone";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "8 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Gelderland/R448>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Groningen/R314> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Ronald Schurink";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "in de gedrukte tekst staat geen totaal van 72, maar aanhalingstekens met daaronder een 1" ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Groningen/R314>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Het_Rijk/O23> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Simone";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "8158 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Het_Rijk/O23>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Noord-Brabant/G161> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Simone";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "geen waarde " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Noord-Brabant/G161>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Noord-Brabant/G348> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "NIWI computer";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "o " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Noord-Brabant/G348>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Noord-Brabant/H496> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Simone Pathuis";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "13 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Noord-Brabant/H496>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Noord-Brabant/H527> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Simone Pathuis";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "6 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Noord-Brabant/H527>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Noord-Brabant/H528> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Simone Pathuis";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "6 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Noord-Brabant/H528>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Noord-Brabant/I389> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "NIWI computer";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "3 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Noord-Brabant/I389>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Noord-Brabant/J139> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Simone";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "344 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Noord-Brabant/J139>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Noord-Brabant/J236> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Simone";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "235 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Noord-Brabant/J236>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Noord-Brabant/J389> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "NIWI computer";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "488 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Noord-Brabant/J389>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Noord-Brabant/K236> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Simone";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "545 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Noord-Brabant/K236>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Noord-Brabant/K389> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "NIWI computer";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "1158 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Noord-Brabant/K389>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Noord-Brabant/L389> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "NIWI computer";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "1194 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Noord-Brabant/L389>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Noord-Brabant/M118> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Simone";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "480 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Noord-Brabant/M118>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Noord-Brabant/M119> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Simone";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "549 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Noord-Brabant/M119>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Noord-Brabant/O389> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "NIWI computer";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "26 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Noord-Brabant/O389>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Noord-Brabant/P389> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "NIWI computer";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "25 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Noord-Brabant/P389>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Noord-Brabant/Q389> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "NIWI computer";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "27 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Noord-Brabant/Q389>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Noord-Brabant/R384> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "NIWI computer";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "18 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Noord-Brabant/R384>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Noord-Brabant/R389> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "NIWI computer";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "11 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Noord-Brabant/R389>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Utrecht/H84> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Simone";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "2" ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Utrecht/H84>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Utrecht/H86> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Simone";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "2 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Utrecht/H86>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Utrecht/M320> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Simone";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "879 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Utrecht/M320>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Zeeland/G311> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Simone";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "8 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Zeeland/G311>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Zuid-Holland/F204> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Simone";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "4209 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Zuid-Holland/F204>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Zuid-Holland/G204> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "BV/IT/IS";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "488 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Zuid-Holland/G204>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Zuid-Holland/J204> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "NIWI computer";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "5101 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Zuid-Holland/J204>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Zuid-Holland/K204> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "NIWI computer";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "10757 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Zuid-Holland/K204>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Zuid-Holland/L204> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "NIWI computer";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "13110 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Zuid-Holland/L204>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Zuid-Holland/M204> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "NIWI computer";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "10626 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Zuid-Holland/M204>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Zuid-Holland/N204> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "NIWI computer";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "13006 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Zuid-Holland/N204>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Zuid-Holland/O204> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "NIWI computer";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "131 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Zuid-Holland/O204>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1869_01_H1_marked/Zuid-Holland/Q204> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "NIWI computer";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "314 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1869_01_H1_marked/Zuid-Holland/Q204>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+

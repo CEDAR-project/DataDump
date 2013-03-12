@@ -1,0 +1,184 @@
+@prefix oa: <http://www.w3.org/ns/openannotation/core/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.data2semantics.org/annotations/VT_1859_01_H1_marked/FRIESLAND/C646> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "cogtest";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "cogtest: Bronfout. De gedrukte bron suggereert hier Buiten de kom. Dit moet zijn binnen de kom. " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1859_01_H1_marked/FRIESLAND/C646>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1859_01_H1_marked/FRIESLAND/C647> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "cogtest";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "cogtest: Bronfout. De gedrukte bron suggereert hier Buiten de kom. Dit moet zijn binnen de kom. " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1859_01_H1_marked/FRIESLAND/C647>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1859_01_H1_marked/GELDERLAND/C646> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "cogtest";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "cogtest: Bronfout. De gedrukte bron suggereert hier Buiten de kom. Dit moet zijn binnen de kom. " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1859_01_H1_marked/GELDERLAND/C646>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1859_01_H1_marked/GELDERLAND/C647> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "cogtest";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "cogtest: Bronfout. De gedrukte bron suggereert hier Buiten de kom. Dit moet zijn binnen de kom. " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1859_01_H1_marked/GELDERLAND/C647>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1859_01_H1_marked/GRONINGEN/C646> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "cogtest";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "cogtest: Bronfout. De gedrukte bron suggereert hier Buiten de kom. Dit moet zijn binnen de kom. " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1859_01_H1_marked/GRONINGEN/C646>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1859_01_H1_marked/GRONINGEN/C647> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "cogtest";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "cogtest: Bronfout. De gedrukte bron suggereert hier Buiten de kom. Dit moet zijn binnen de kom. " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1859_01_H1_marked/GRONINGEN/C647>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1859_01_H1_marked/NOORDBRABANT/B535> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "cogtest";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "cogtest: Bronfout. De gedrukte bron geeft hier Gestet en Blaarthem. Dit moet zijn Gestel en Blaarthem. Hier is het gegeven gecorrigeerd. " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1859_01_H1_marked/NOORDBRABANT/B535>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1859_01_H1_marked/NOORDBRABANT/B536> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "cogtest";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "cogtest: Bronfout. De gedrukte bron geeft hier Gestet en Blaarthem. Dit moet zijn Gestel en Blaarthem. Hier is het gegeven gecorrigeerd. " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1859_01_H1_marked/NOORDBRABANT/B536>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1859_01_H1_marked/NOORDBRABANT/B537> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "cogtest";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "cogtest: Bronfout. De gedrukte bron geeft hier Gestet en Blaarthem. Dit moet zijn Gestel en Blaarthem. Hier is het gegeven gecorrigeerd. " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1859_01_H1_marked/NOORDBRABANT/B537>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1859_01_H1_marked/NOORDBRABANT/B538> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "cogtest";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "cogtest: Bronfout. De gedrukte bron geeft hier Gestet en Blaarthem. Dit moet zijn Gestel en Blaarthem. Hier is het gegeven gecorrigeerd. " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1859_01_H1_marked/NOORDBRABANT/B538>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1859_01_H1_marked/NOORDBRABANT/B539> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "cogtest";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "cogtest: Bronfout. De gedrukte bron geeft hier Gestet en Blaarthem. Dit moet zijn Gestel en Blaarthem. Hier is het gegeven gecorrigeerd. " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1859_01_H1_marked/NOORDBRABANT/B539>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1859_01_H1_marked/NOORDBRABANT/E1132> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "cogtest";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "cogtest: Bronfout. De gedrukte bron geeft 292. Optelling van de kolomdata geeft 232 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1859_01_H1_marked/NOORDBRABANT/E1132>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1859_01_H1_marked/NOORDBRABANT/E1133> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "cogtest";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "cogtest: Bronfout. De gedrukte bron geeft 501. Optelling van de kolomdata geeft 441. " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1859_01_H1_marked/NOORDBRABANT/E1133>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1859_01_H1_marked/NOORDBRABANT/E130> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "cogtest";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "cogtest: Bronfout: de gedrukte bron geeft 389. Opteling van de kolomdata geeft 380. " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1859_01_H1_marked/NOORDBRABANT/E130>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1859_01_H1_marked/NOORDBRABANT/E590> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "cogtest";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "cogtest: Bronfout. De gedrukte bron geeft 109. Optelling van de kolomdata geeft 119. " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1859_01_H1_marked/NOORDBRABANT/E590>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1859_01_H1_marked/NOORDBRABANT/E663> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "cogtest";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "cogtest: Bronfout. De gedrukte bron geeft 126. Optelling van de kolomdata geeft 236." ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1859_01_H1_marked/NOORDBRABANT/E663>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1859_01_H1_marked/NOORDBRABANT/J170> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "cogtest";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "cogtest: Bronfout: de gedrukte bron geeft 461. Optelling van de kolomdata geeft 431. " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1859_01_H1_marked/NOORDBRABANT/J170>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1859_01_H1_marked/NOORDBRABANT/J292> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "cogtest";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "cogtest: Bronfout: de gedrukte bron geeft 1690. Optelling van de kolomdata geeft 1590." ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1859_01_H1_marked/NOORDBRABANT/J292>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1859_01_H1_marked/NOORDBRABANT/J487> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "cogtest";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "cogtest: Bronfout. De gedrukte bron geeft hier 290. Optelling van de kolomdata geeft 226. " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1859_01_H1_marked/NOORDBRABANT/J487>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1859_01_H1_marked/NOORDHOLLAND/F742> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "cogtest";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "cogtest: Bronfout. De gedrukte bron geeft 2 onbewoonde huizen. Optelling van de kolomdata geeft 1. " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1859_01_H1_marked/NOORDHOLLAND/F742>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+

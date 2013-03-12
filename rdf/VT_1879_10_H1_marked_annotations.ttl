@@ -1,0 +1,112 @@
+@prefix oa: <http://www.w3.org/ns/openannotation/core/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.data2semantics.org/annotations/VT_1879_10_H1_marked/Noordbrabant/C1398> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Rommert";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "Sterksel" ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1879_10_H1_marked/Noordbrabant/C1398>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1879_10_H1_marked/Noordbrabant/C1642> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Rommert";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "Knegsel" ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1879_10_H1_marked/Noordbrabant/C1642>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1879_10_H1_marked/Noordbrabant/C177> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Rommert";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "Aarle" ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1879_10_H1_marked/Noordbrabant/C177>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1879_10_H1_marked/Noordbrabant/E1692> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Rommert";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "Heikant" ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1879_10_H1_marked/Noordbrabant/E1692>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1879_10_H1_marked/Noordbrabant/E378> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Rommert";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "Vaart en Klem. Dongen" ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1879_10_H1_marked/Noordbrabant/E378>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1879_10_H1_marked/Noordbrabant/I103> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Rommert";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "152" ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1879_10_H1_marked/Noordbrabant/I103>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1879_10_H1_marked/Noordbrabant/J1673> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Rommert";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "2" ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1879_10_H1_marked/Noordbrabant/J1673>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1879_10_H1_marked/Noordbrabant/N18> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Jappiee";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "173 " ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1879_10_H1_marked/Noordbrabant/N18>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1879_10_H1_marked/Noordbrabant/N19> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Jappiee";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "324" ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1879_10_H1_marked/Noordbrabant/N19>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1879_10_H1_marked/Noordbrabant/R1323> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Jappiee";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "122" ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1879_10_H1_marked/Noordbrabant/R1323>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1879_10_H1_marked/Noordbrabant/T135> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Rommert";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "394" ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1879_10_H1_marked/Noordbrabant/T135>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
+<http://www.data2semantics.org/annotations/VT_1879_10_H1_marked/Noordbrabant/T137> a oa:Annotation;
+    oa:annotated "2013-02-27"^^xsd:date;
+    oa:annotator "Rommert";
+    oa:generated "2013-02-27"^^xsd:date;
+    oa:generator <https://github.com/Data2Semantics/TabLinker>;
+    oa:hasBody [ rdf:value "394" ];
+    oa:hasTarget <http://www.data2semantics.org/data/VT_1879_10_H1_marked/Noordbrabant/T137>;
+    oa:modelVersion <http://www.openannotation.org/spec/core/20120509.html> .
+
