@@ -5,6 +5,12 @@ Virtuoso DB options for CEDAR data
 
 import os
 
+# Parameters
+outFile = 'virtuoso.db'
+namespace = 'http://lod.cedar-project.nl/resource/'
+dumpDir = '../../cedar-dump'
+ttlPattern = '_marked.ttl'
+
 sql = ""
 sql += "## User 'cedar' has read access to several graphs."
 
@@ -13,9 +19,9 @@ sql += "DB.DBA.USER_CREATE ('cedar', sprintf('%d',rnd(1e16)));\n"
 sql += "GRANT SPARQL_SELECT to \"cedar\";\n"
 sql += "DB.DBA.RDF_DEFAULT_USER_PERMS_SET ('cedar', 0);\n"
 
-for f in os.listdir('../../cedar-dump'):
-    graph = f.split('_marked.ttl')[0]
-    sql += "DB.DBA.RDF_GRAPH_USER_PERMS_SET ('http://lod.cedar-project.nl/resource/" + graph  + "', 'cedar', 1);\n"
+for f in os.listdir(dumpDir):
+    graph = f.split(ttlPattern)[0]
+    sql += "DB.DBA.RDF_GRAPH_USER_PERMS_SET ('" + namespace + graph  + "', 'cedar', 1);\n"
 
 
 sql += "\n"
@@ -42,6 +48,15 @@ sql += "	 is_default_host=>0\n"
 sql += ");\n"
 sql += "\n"
 
-fw = open('virtuoso.db', 'w')
+sql += "## Create graph group for the entire dataset\n"
+sql += "\n"
+
+sql += "DB.DBA.RDF_GRAPH_GROUP_CREATE('" + namespace  +  "cedar-dataset',1);\n"
+
+for f in os.listdir(dumpDir):
+    graph = f.split(ttlPattern)[0]
+    sql += "DB.DBA.RDF_GRAPH_GROUP_INS('" + namespace + "cedar-dataset', '" + namespace + graph +  "');\n"
+
+fw = open(outFile, 'w')
 fw.write(sql)
 fw.close()
