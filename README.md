@@ -19,5 +19,5 @@ Currently the redundant formats are:
 
 ## Scripts
 
-* 'generate-load-sql.py' generates a SQL load file ('load-cedar-rdf-data.sql') for OpenLink virtuoso that loads all TTL files of a given directory
-* 'generate-virtuoso-db.py' generates the Virtuoso config file 'virtuoso.db' that sets up users, SPARQL endpoints, graph permissions and graph groups
+* `generate-load-sql.py` generates a SQL load file (`load-cedar-rdf-data.sql`) for OpenLink virtuoso that loads all TTL files of a given directory
+* `generate-virtuoso-db.py` generates the Virtuoso config file `virtuoso.db` that sets up users, SPARQL endpoints, graph permissions and graph groups
