@@ -29,6 +29,7 @@ DB.DBA.RDF_GRAPH_USER_PERMS_SET ('http://lod.cedar-project.nl/resource/r1/WT-193
 DB.DBA.RDF_GRAPH_USER_PERMS_SET ('http://lod.cedar-project.nl/resource/r1/WT-1947', 'cedar', 1);
 DB.DBA.RDF_GRAPH_USER_PERMS_SET ('http://lod.cedar-project.nl/resource/r1/WT-1956', 'cedar', 1);
 DB.DBA.RDF_GRAPH_USER_PERMS_SET ('http://lod.cedar-project.nl/resource/r1/WT-1971', 'cedar', 1);
+DB.DBA.RDF_GRAPH_USER_PERMS_SET ('http://lod.cedar-project.nl/resource/codes_belief', 'cedar', 1);
 
 
 ## Endpoint /sparql/cedar uses credentials of user 'cedar'
@@ -85,3 +86,4 @@ DB.DBA.RDF_GRAPH_GROUP_INS('http://lod.cedar-project.nl/resource/r1/cedar-datase
 DB.DBA.RDF_GRAPH_GROUP_INS('http://lod.cedar-project.nl/resource/r1/cedar-dataset', 'http://lod.cedar-project.nl/resource/r1/WT-1947');
 DB.DBA.RDF_GRAPH_GROUP_INS('http://lod.cedar-project.nl/resource/r1/cedar-dataset', 'http://lod.cedar-project.nl/resource/r1/WT-1956');
 DB.DBA.RDF_GRAPH_GROUP_INS('http://lod.cedar-project.nl/resource/r1/cedar-dataset', 'http://lod.cedar-project.nl/resource/r1/WT-1971');
+DB.DBA.RDF_GRAPH_GROUP_INS('http://lod.cedar-project.nl/resource/r1/cedar-dataset', 'http://lod.cedar-project.nl/resource/codes_belief');
