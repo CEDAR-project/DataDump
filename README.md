@@ -17,6 +17,16 @@ Currently the redundant formats are:
 * Conversion of the previous directory to RDF Turtle, under [rdf](https://github.com/CEDAR-project/DataDump/tree/master/rdf/)
 * Legacy HASH project database, under [hash-sql](https://github.com/CEDAR-project/DataDump/tree/master/hash-sql/)
 
+## Links
+
+Links to/from other datasets are available under [links](https://github.com/CEDAR-project/DataDump/tree/master/links/)
+
+* To the [Historical International Standard Classification of Occupations](http://historyofwork.iisg.nl/) (HISCO)
+* To the Amsterdamse Code and URIs of [gemeentegeschiedenis.nl](http://www.gemeentegeschiedenis.nl/)
+* To occupations in the [ICONCLASS](http://iconclass.org/) system
+* From the [Dutch Ships and Sailors](http://ghhpw.com/ships_and_sailors.php) dataset
+
+
 ## Scripts
 
 * `generate-load-sql.py` generates a SQL load file (`load-cedar-rdf-data.sql`) for OpenLink virtuoso that loads all TTL files of a given directory
