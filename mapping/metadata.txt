@@ -1,0 +1,43 @@
+[Ages]
+file = Ages.ods
+author = Christophe
+predicate = cedarterms:ageRange
+prefix = cedarterms:age
+
+[Housing]
+file = Housing_types.ods
+author = Ashkan
+predicate = cedarterms:houseType
+prefix = cedarterms:house
+
+[Sex]
+file = Sex.ods
+author = Christophe
+predicate = sdmx-dimension:sex
+prefix = sdmx-code:sex
+
+        self.mappings['maritalstatus'] = {
+            'predicate' : self.conf.getURI('maritalstatus', 'maritalStatus'),
+            'mappings' : 'data/input/mapping/marital_status.csv'
+        }
+        self.mappings['occupationPosition'] = {
+            'predicate' : self.conf.getURI('cedarterms', 'occupationPosition'),
+            'mappings' : 'data/input/mapping/occupation_position.csv'
+        }
+        self.mappings['occupation'] = {
+            'predicate' : self.conf.getURI('hisco', 'occupation'),
+            'mappings' : 'data/input/mapping/occupation.csv'
+        }
+        self.mappings['belief'] = {
+            'predicate' : self.conf.getURI('cedarterms', 'belief'),
+            'mappings' : 'data/input/mapping/belief.csv'
+        }
+        self.mappings['city'] = {
+            'predicate' : self.conf.getURI('sdmx-dimension', 'refArea'),
+            'mappings' : 'data/input/mapping/city.csv'
+        }
+        self.mappings['province'] = {
+            'predicate' : self.conf.getURI('sdmx-dimension', 'refArea'),
+            'mappings' : 'data/input/mapping/province.csv'
+        }
+
