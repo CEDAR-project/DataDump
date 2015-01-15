@@ -1,43 +1,53 @@
-[Ages]
-file = Ages.ods
+[Age]
+file = Ages.xls
 author = Christophe
-predicate = cedarterms:ageRange
-prefix = cedarterms:age
+predicate = http://bit.ly/cedar#ageRange
+prefix = http://bit.ly/cedar#age-
 
-[Housing]
-file = Housing_types.ods
+[Belief]
+file = Beliefs.xls
+author = www.volkstellingen.nl
+predicate = http://bit.ly/cedar#hasBelief
+prefix = http://bit.ly/cedar#belief-
+
+[City]
+file = Cities.xls
+author = www.gemeentegeschiedenis.nl
+predicate = http://purl.org/linked-data/sdmx/2009/dimension#refArea
+prefix = http://www.gemeentegeschiedenis.nl/amco/
+
+[HousingType]
+file = Housing_types.xls
 author = Ashkan
-predicate = cedarterms:houseType
-prefix = cedarterms:house
+predicate = http://bit.ly/cedar#houseType
+prefix = http://bit.ly/cedar#house-
+
+[MaritalStatus]
+file = Marital_status.xls
+author = Christophe
+predicate = http://bit.ly/cedar-maritalstatus#maritalStatus
+prefix = http://bit.ly/cedar-maritalstatus#
+
+[OccupationPosition]
+file = Occupation_position.xls
+author = Christophe
+predicate = http://bit.ly/cedar#occupationPosition
+prefix = http://bit.ly/cedar#position-
+
+[Occupation]
+file = Occupation.xls
+author = www.volkstellingen.nl
+predicate = http://bit.ly/cedar#occupation
+prefix = http://bit.ly/cedar-hisco#hisco-
+
+[Province]
+file = Province.xls
+author = www.gemeentegeschiedenis.nl
+predicate = http://purl.org/linked-data/sdmx/2009/dimension#refArea
+prefix = http://www.gemeentegeschiedenis.nl/provincie/
 
 [Sex]
-file = Sex.ods
+file = Sex.xls
 author = Christophe
-predicate = sdmx-dimension:sex
-prefix = sdmx-code:sex
-
-        self.mappings['maritalstatus'] = {
-            'predicate' : self.conf.getURI('maritalstatus', 'maritalStatus'),
-            'mappings' : 'data/input/mapping/marital_status.csv'
-        }
-        self.mappings['occupationPosition'] = {
-            'predicate' : self.conf.getURI('cedarterms', 'occupationPosition'),
-            'mappings' : 'data/input/mapping/occupation_position.csv'
-        }
-        self.mappings['occupation'] = {
-            'predicate' : self.conf.getURI('hisco', 'occupation'),
-            'mappings' : 'data/input/mapping/occupation.csv'
-        }
-        self.mappings['belief'] = {
-            'predicate' : self.conf.getURI('cedarterms', 'belief'),
-            'mappings' : 'data/input/mapping/belief.csv'
-        }
-        self.mappings['city'] = {
-            'predicate' : self.conf.getURI('sdmx-dimension', 'refArea'),
-            'mappings' : 'data/input/mapping/city.csv'
-        }
-        self.mappings['province'] = {
-            'predicate' : self.conf.getURI('sdmx-dimension', 'refArea'),
-            'mappings' : 'data/input/mapping/province.csv'
-        }
-
+predicate = http://purl.org/linked-data/sdmx/2009/dimension#sex
+prefix = http://purl.org/linked-data/sdmx/2009/code#sex-
