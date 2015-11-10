@@ -1,0 +1,12 @@
+Iconclass Description,Iconclass Code,Type of match,HISCO Description,HISCO Code
+maid ~ house personnel,42F51,exactmatch,Housemaid,54020
+charwoman, cleaning woman,42F52,exactmatch,Charwoman,55220
+butler,42F54,exactmatch,Butler,22490
+notary,44G45,broadmatch,Lawyer and notary,12110
+house-guard, doorkeeper, janitor,42F55,exactmatch,Janitor,55130
+barrister,44G161,broadmatch,Barrister,12110
+captain,46C2711(CAPTAIN),exactmatch,Ship's Master (Sea or Inland Waterways),4217
+sheriff,44G221,closematch,Sheriff's officer,20210
+Scaffolder - shipbuilding,47L12,closematch,Scaffolder,95940
+Dock-labourer,47L21,exactmatch,Dock labourer,97120
+Ship's carpenter,47L22,exactmatch,Ship carpenter,95455
